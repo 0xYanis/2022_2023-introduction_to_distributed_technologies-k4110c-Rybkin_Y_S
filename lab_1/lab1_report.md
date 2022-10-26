@@ -12,7 +12,7 @@ Author: Rybkin Yan Sergeevich
 
 Lab: Lab1
 
-Date of create: 26.10.2022
+Date of create: 30.09.2022
 
 Date of finished: 26.10.2022
 
