@@ -32,7 +32,7 @@ REACT_APP_USERNAME
 
 REACT_APP_COMPANY_NAME
 
-## Create a deployment manifest
+## Create a deployment manifest (with logs)
 
 ![Снимок экрана 2022-10-26 в 6 12 28 PM](https://user-images.githubusercontent.com/111576120/198065373-1118b35e-bb32-49b8-b699-8c3bc148ec67.png)
 
