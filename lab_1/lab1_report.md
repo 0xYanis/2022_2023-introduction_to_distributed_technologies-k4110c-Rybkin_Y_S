@@ -12,6 +12,14 @@ Author: Rybkin Yan Sergeevich
 
 Lab: Lab1
 
-Date of create:
+Date of create: 26.10.2022
 
-Date of finished:
+Date of finished: 26.10.2022
+
+1. Docker and minikube installed successfully.
+
+2. Launch minikube
+
+![Снимок экрана 2022-10-26 в 2 46 37 PM](https://user-images.githubusercontent.com/111576120/198018235-e220c30c-7649-4c2c-9005-28282290b6d8.png)
+
+3. 
