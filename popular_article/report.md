@@ -1,4 +1,4 @@
-# Бизнес-модели на основе технологии блокчейн
+# Бизнес-модели, основанные на технологии блокчейн
 
 - [Yan Rybkin. Business models based on blockchain technology](https://medium.com/@0xYanis/бизнес-модели-на-основе-технологии-блокчейн-e1cd2fc42d0f)
 
