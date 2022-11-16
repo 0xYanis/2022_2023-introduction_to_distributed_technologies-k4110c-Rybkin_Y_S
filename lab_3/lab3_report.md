@@ -12,6 +12,10 @@ Author: Rybkin Yan Sergeevich
 
 Lab: Lab3
 
-Date of create:
+Date of create: 30.09.2022
 
-Date of finished:
+Date of finished: 16.11.2022
+
+# Выполнение л/р №3
+
+## 1. Создаем маниферт c 
