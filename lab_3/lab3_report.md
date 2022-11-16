@@ -16,6 +16,7 @@ Date of create: 30.09.2022
 
 Date of finished: 16.11.2022
 
-# Выполнение л/р №3
+# Выполнение:
 
-## 1. Создаем маниферт c 
+## 1. Создадим маниферт c configMap, deployment и Service и запустим:
+
