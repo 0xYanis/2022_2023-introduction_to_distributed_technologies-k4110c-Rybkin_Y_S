@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+    name: special-config
+data:
+    react_app_username: "yanis"
+    react_app_company_name: "itmo"
