@@ -50,6 +50,9 @@ Date of finished: 16.11.2022
 
 ![Снимок экрана 2022-11-17 в 2 42 18 PM](https://user-images.githubusercontent.com/111576120/202439215-0d4800fd-cd40-48c1-8c5e-c15794a34f68.png)
 
+## Схема
+
+![lab3](https://user-images.githubusercontent.com/111576120/202442884-88fcf278-e65a-4f0e-a416-541e3860629b.png)
 
 
 
