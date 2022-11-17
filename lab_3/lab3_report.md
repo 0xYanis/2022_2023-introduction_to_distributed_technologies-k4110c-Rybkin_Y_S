@@ -52,7 +52,8 @@ Date of finished: 16.11.2022
 
 ## Схема
 
-![lab3](https://user-images.githubusercontent.com/111576120/202442884-88fcf278-e65a-4f0e-a416-541e3860629b.png)
+![123 drawio](https://user-images.githubusercontent.com/111576120/202443182-68309218-69a6-4c6e-af87-82b52166bad2.png)
+
 
 
 
