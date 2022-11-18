@@ -46,4 +46,5 @@ Date of finished: 18.11.2022
 
 ## Моя структура k8s
 
-![202443182-68309218-69a6-4c6e-af87-82b52166bad2](https://user-images.githubusercontent.com/111576120/202751236-961408af-6c92-4186-b917-88366513e87b.png)
+![123](https://user-images.githubusercontent.com/111576120/202751355-9040f536-b8a4-4856-9047-ab7d6136b71f.png)
+
